@@ -1,0 +1,1 @@
+h1{color:#0ff;font-family:monospace}h1:before{content:"imported: "}h1:where(.astro-IPISSLMX){color:#ff69b4;font-family:cursive}h1:where(.astro-IPISSLMX):before{content:"scoped: "}
