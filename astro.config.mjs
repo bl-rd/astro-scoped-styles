@@ -2,5 +2,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    outDir: './docs'
+    outDir: './docs',
+    site: 'https://bl-rd.github.io',
+    base: '/astro-scoped-styles'
 });
