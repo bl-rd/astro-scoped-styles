@@ -1,0 +1,7 @@
+h1 {
+    color: cyan;
+    font-family: monospace;
+}
+h1::before {
+    content: 'imported: ';
+}
